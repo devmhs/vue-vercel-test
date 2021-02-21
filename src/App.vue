@@ -2,7 +2,7 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png" />
     <HelloWorld
-      msg="dsaadsasdaxzzcxxczxczcxxczxczcxzxczxczzxccxzcxzxcxczzxcxzcxczjs App"
+      msg="dsaadsasdaxzzcsdadsadsadasxxczxczcxxczxczcxzxczxczzxccxzcxzxcxczzxcxzcxczjs App"
     />
   </div>
 </template>
